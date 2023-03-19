@@ -8,3 +8,5 @@ Il faut télécharger le dossier .zip, l’extraire, le nommer “pfr_code” et
 Lorsque cela est fait, ouvrir un terminal, aller dans le dossier pfr_code, compiler avec “make testgen”. Si besoin de relancer le programme, utiliser la commande “./testgen.out” .
 
 Pour la suite, se fier à l’interface. Le mot de passe pour l’administrateur est “feur”.
+
+https://github.com/T4Oui/ProjetFilRouge
